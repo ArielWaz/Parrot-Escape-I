@@ -1,0 +1,35 @@
+﻿Lab #8
+Ariel Wazana
+Game Programming
+
+
+
+
+Part 1: Piano
+
+
+Done. I attached the GFAR with this pdf.
+
+
+Part 2: Pitch a game idea
+
+
+• Game idea: A bird is trying to find his way through a bunch of puzzles where he needs to escape to the next level to continue on. The parrot was locked in this castle and needs to find the windows to escape. This will be a puzzle game kind of like Fireboy and Watergirl.
+
+
+• Scenario and characters description: The scenario is a castle where the parrot is trying to escape from. The parrot’s name is Pierce the Parrot. He is green and orange and has a black beak. He is able to fly.
+
+
+• Characters’ actions and goals : To pass through the windows to the next level, once you complete all the levels, you get to escape the castle and you win.
+
+
+• Game Win/Lose conditions: You lose if you hit the traps like arrows and spikes and win if you escape through the final level.
+
+
+• Progression of levels: Five levels which get harder and harder.
+
+
+• Sources of inspiration: Fireboy and Watergirl: Forest Temple but imagine it like single player.
+
+
+• What skills/interests you are looking for in a team mate: Good Coders with good creativity. I have experience with graphic designing so I could make the png’s and stuff like that.
